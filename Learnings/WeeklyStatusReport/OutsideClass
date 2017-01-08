@@ -9,3 +9,4 @@ and built the foundation of many different concepts. I learned about LSP, what m
 #3 I understood DLL's, and used win32 dlls to access screen info, move the mouse, from Python.
 #4 I learnt JavaScript, used a library to make a game like flappy-bird, except the mouse pointer replaces the bird.
 #5 Read turing award lecture on Djikstra.
+#6 Started working on making a double pendulum simulation.
