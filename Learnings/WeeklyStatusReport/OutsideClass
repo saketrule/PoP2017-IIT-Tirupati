@@ -3,6 +3,9 @@ Be specific...
 
 Week1
 
-#1 I read the paper "X" and I learnt that software engineering is multi-disciplinary subject
-#2 I discussed with Krishna about design of software and we debated on different facets of software enigneering.
-Is it art, science or what?
+#1 I read the turing award lecture by Barbara Linkov and realized how they fought with programming problems that arose in the early stages
+and built the foundation of many different concepts. I learned about LSP, what microprogramming means, and how functions and classes first arose.
+#2 I downloaded and experimented with AutoHotKey
+#3 I understood DLL's, and used win32 dlls to access screen info, move the mouse, from Python.
+#4 I learnt JavaScript, used a library to make a game like flappy-bird, except the mouse pointer replaces the bird.
+#5 Read turing award lecture on Djikstra.
