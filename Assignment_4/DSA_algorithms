@@ -1,0 +1,3 @@
+Instead of implementing a simple stack, queue class, I thought it be more interesting to implement other algorithms discussed in class. It is more work(and more enjoyable) and I've implemented them in Scala, so hope you'll be fine with it.
+Kth minimum element: Uses median-of-medians as pivot to improve Quickselect algorithm to linear time complexity
+Convex hull problem: Finds the convex hull of points in (nlogn) time complexity
