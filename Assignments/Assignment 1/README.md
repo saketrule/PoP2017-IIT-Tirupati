@@ -11,5 +11,3 @@ My rosettacode ID is  Saketrule  (https://rosettacode.org/wiki/User:Saketrule
 4.  Kaprekar numbers        https://rosettacode.org/mw/index.php?title=Casting_out_nines&oldid=241855#Scala
 
 5.  Compare list strings    https://rosettacode.org/mw/index.php?title=Compare_a_list_of_strings&oldid=241862
-
-6.  
